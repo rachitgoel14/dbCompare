@@ -1,0 +1,3 @@
+23.90951418876623.28106808662426.140456914902
+
+25.453731060028<br>22.273843050003<br>22.448972940445<br>Mysql innodb Time to select 1000 in run 3 = 23.316090106964<br>Mysql innodb Time to select 1000 in run 3 = 29.192836999893<br>Mysql innodb Time to insert 1000 in run 3 = 0.39931297302246<br>Mysql innodb Time to insert 10 in run 3 = 0.01108193397522<br>Mysql innodb Time to insert 10 in run 3 = 0.01367712020874<br>Mysql innodb Time to insert 10 in run 3 = 0.014466047286987<br>Mysql innodb Time to insert 10 in run 3 = 0.026231050491333<br>Mysql innodb Time to insert 10 in run 3 = 0.13631105422974<br>Mysql innodb Time to insert 100 in run 3 = 0.73522186279297
